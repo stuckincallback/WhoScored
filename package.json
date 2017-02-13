@@ -1,0 +1,26 @@
+{
+  "name": "whoscored",
+  "version": "1.0.0",
+  "description": "why google when you cant get notification easily.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuckincallback/WhoScored.git"
+  },
+  "author": "GovindJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuckincallback/WhoScored/issues"
+  },
+  "homepage": "https://github.com/stuckincallback/WhoScored#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "nodemon": "^1.11.0",
+    "request": "^2.79.0",
+    "xo": "^0.17.1"
+  }
+}
